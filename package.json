@@ -1,0 +1,15 @@
+{
+  "name": "devbox-electron",
+  "version": "1.0.0",
+  "description": "autocreate vm's",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Matt McKee",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.0.0",
+    "electron-reload": "^1.5.0"
+  }
+}
