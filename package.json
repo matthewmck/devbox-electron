@@ -9,7 +9,7 @@
   "author": "Matt McKee",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.0.0",
+    "electron": "^13.6.6",
     "electron-reload": "^1.5.0"
   }
 }
